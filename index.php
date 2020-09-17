@@ -1,0 +1,1 @@
+<?php echo 'hello, I am new website'; ?>
